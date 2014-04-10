@@ -7,5 +7,9 @@ public class JavaGitTest {
 		
 		
 		System.out.println("Second Time Around");
+		
+		
+		
+		System.out.println("Some other developer edited this");
 	}
 }
