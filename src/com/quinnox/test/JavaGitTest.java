@@ -13,5 +13,7 @@ public class JavaGitTest {
 		System.out.println("Some other developer edited this");
 		
 		System.out.println("Edited on 15th April");
+		
+		System.out.println("Edited on 15th April by second user");
 	}
 }
