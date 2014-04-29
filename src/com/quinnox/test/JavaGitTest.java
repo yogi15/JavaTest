@@ -13,12 +13,5 @@ public class JavaGitTest {
 		System.out.println("Some other developer edited this");
 		
 		System.out.println("Edited on 15th April");
-		
-		System.out.println("Edited on 15th April by second user");
-		
-		System.out.println("Edited on 15th April by first user");
-		
-		System.out.println("Commit only");
-		System.out.println("Here");
 	}
 }
